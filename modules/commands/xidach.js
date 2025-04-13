@@ -126,7 +126,7 @@ module.exports.onLoad = async () => {
 		}
 	});
 	if (!global.client.xidach_otm) global.client.xidach_otm = {};
-	console.log("https://www.facebook.com/profile.php?id=1193456508");
+	console.log("https://www.facebook.com/anhyeuemnhamlun");
 };
 
 const delay = ms => new Promise(resolve => setTimeout(resolve, ms));

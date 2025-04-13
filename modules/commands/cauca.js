@@ -89,7 +89,7 @@ module.exports.onLoad = async function () {
         }
     });
     if (!global.client.xidach_otm) global.client.xidach_otm = {};
-    console.log("https://www.facebook.com/lekhanhhihi");
+    console.log("https://www.facebook.com/anhyeuemnhamlun");
     return;
 };
 
